@@ -1,1 +1,3 @@
-Run Filnal.py after installing chrome in your PC.
+Install Chrom in your PC.
+open the program in vs code.
+Run final.py.
